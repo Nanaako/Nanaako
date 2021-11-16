@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanaako
 - 👀 I’m interested in building websites
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on anything related builing a website
+- 💞️ I’m looking to collaborate on anything related building a website
 - 📫 How to reach me by email - akofyani.nana@gmail.com
 
 <!---
